@@ -1,0 +1,47 @@
+#barraLateral {
+    padding-left: 0;
+    padding-right: 0;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    width: 17rem;
+    height: 100vh;
+    justify-content: center;
+    background-color: rgb(8, 53, 115)!important;
+    font-weight: 800;
+    letter-spacing: 0.05rem;
+    text-transform: uppercase;
+}
+
+.fotoNavLateral1 {
+    border: 0.5rem solid rgba(255, 255, 255, 0.2);
+}
+
+.fotoNavLateral1:hover {
+    border: 0.5rem solid rgba(8, 53, 115, 0.2);
+}
+
+.fotoNavLateral1 {
+    vertical-align: middle;
+    border-radius: 50% !important;
+}
+
+#itensLaterais1 {
+    color: rgba(255, 255, 255, 0.55);
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+    display: flex;
+    text-align: center;
+    margin: 20px;
+    list-style-type: none;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: space-around;
+}
+
+#itensLaterais1:hover {
+    color: rgb(255, 255, 255);
+}

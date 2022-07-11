@@ -1,0 +1,8 @@
+#skill-icon,
+.listaIcones {
+    padding-left: 20px;
+}
+
+#skill-icon:hover {
+    padding-right: 10px;
+}
