@@ -12,7 +12,7 @@ function SobreMim() {
                 Brasília - DF · E-mail:
                 <a id="enviarEmail" href="mailto:filhoaguiar20@gmail.com">filhoaguiar20@gmail.com</a>
             </div>
-            <p className="descricaoSobreMim">Tenho muita vontade de aprender e sou extremamente fascinado por coisas novas, procuro uma oportunidade de desenvolver os meus conhecimentos e principalmente aprender mais!!!</p>
+            <p className="descricaoSobreMim">Desenvolvedor Java, focando meus estudos na criação de APIs Restful!</p>
             <div className="redeSociais">
                 <a href="https://www.linkedin.com/in/adeilton-santana-520092220/" target="_blank">
                     <img id="redeSocial1" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" />

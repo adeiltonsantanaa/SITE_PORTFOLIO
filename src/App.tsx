@@ -12,11 +12,11 @@ function App() {
       <div className='container'>
         <SobreMim/>
         <hr className="linha"/>
-        <Exp/>
+        <Skills/>
         <hr className="linha"/>
         <Formacao/>
         <hr className="linha"/>
-        <Skills/>
+        <Exp/>
       </div>
     </>
   )

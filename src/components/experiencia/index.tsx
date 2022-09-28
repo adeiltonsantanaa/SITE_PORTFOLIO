@@ -34,3 +34,23 @@ function Exp() {
 }
 
 export default Exp
+
+
+/*
+
+<ul>
+                            <li className="expLi">· Java 8+;</li>
+                            <li className="expLi">· SpringBoot;</li>
+                            <li className="expLi">· ApiRest; </li>
+                            <li className="expLi">· TypeScript; </li>
+                            <li className="expLi">· React; </li>
+                            <li className="expLi">· MySQL;</li>
+                            <li className="expLi">· PostgreSQL;</li>
+                            <li className="expLi">· Docker;</li>
+                            <li className="expLi">· Git;</li>
+                            <li className="expLi">· JUnit;</li>
+                            <li className="expLi">· Mockito;</li>
+                        </ul>
+
+
+*/ 
