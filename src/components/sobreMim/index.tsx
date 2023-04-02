@@ -10,9 +10,10 @@ function SobreMim() {
             </h1>
             <div className="enderecoEmail">
                 Brasília - DF · E-mail:
-                <a id="enviarEmail" href="mailto:filhoaguiar20@gmail.com">filhoaguiar20@gmail.com</a>
+                <a id="enviarEmail" href="mailto:filhoaguiar20@gmail.com">contato@adeiltonsantana.com.br</a>
             </div>
-            <p className="descricaoSobreMim">Desenvolvedor Java, focando meus estudos na criação de APIs Restful!!!</p>
+            <p className="descricaoSobreMim">Olá, meu nome é Adeilton Santana Aguiar Filho, e eu sou um profissional de TI com mais de 6 anos de experiência no setor. Tenho experiência em administração de servidores Linux, bem como na implementação e gerenciamento de soluções na AWS.</p>
+            <p className="descricaoSobreMim">Além disso, sou desenvolvedor fullStack, trabalhando diariamente com tecnologias como Java, Spring e React, e tenho forte experiência em bancos de dados MySQL e PostgreSQL. Também tenho bons conhecimentos em ferramentas de automação de CI/CD e conteinerização como Jenkins e Docker, por fim, mas não menos importante, tenho habilidades em testes de software com JUnit e Mockito.</p>
             <div className="redeSociais">
                 <a href="https://www.linkedin.com/in/adeilton-santana-520092220/" target="_blank">
                     <img id="redeSocial1" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" />
